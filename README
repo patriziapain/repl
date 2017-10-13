@@ -1,0 +1,7 @@
+This project takes in command line bash inputs, and parses them to pipes and processes using string manipulation in C++.
+It is the beginning of creating my own bash shell.
+
+The repl class is the class that takes in the command line input and parses it. It works on a continuous loop to emulate a real bash system.
+
+The ProcessInfo class has helper methods for the repl class.
+
